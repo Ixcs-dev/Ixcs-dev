@@ -33,12 +33,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ixcs-dev/Ixcs-dev/main/.github/workflows/snake.yml" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/31v65bpjvnf7fnhgnjolir3srwc4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v65bpjvnf7fnhgnjolir3srwc4&count=1&unique=true" alt="Spotify recently played"  />
